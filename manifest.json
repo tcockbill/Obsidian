@@ -7,7 +7,7 @@
 	"author": "GC Chen",
 	"authorUrl": "https://github.com/cgcel/obsidian-local-backup",
 	"fundingUrl": "https://www.buymeacoffee.com/cgcel",
-	"isDesktopOnly": true,
+	"isDesktopOnly": false,
 	"js": "main.js",
 	"tags": ["backup"]
 }
