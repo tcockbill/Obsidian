@@ -1,0 +1,8 @@
+- Compund graphs  
+- Compound functions  
+- Equating coefficients  
+- Inverse functions  
+- Indecies rules applied  
+- Eqautions of a circle  
+- Solving simultaneous equations by substitution  
+- Disguised equations
