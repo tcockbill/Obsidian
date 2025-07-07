@@ -1,0 +1,9 @@
+- [x] Uplearn - Chemistry 🔼 🔁 every week ➕ 2025-06-13 📅 2025-06-15 ✅ 2025-06-17  
+- [x] Uplearn - Chemistry 🔼 🔁 every week ➕ 2025-06-17 📅 2025-06-22 ✅ 2025-06-30  
+- [x] Uplearn - Chemistry 🔼 🔁 every week ➕ 2025-06-30 📅 2025-06-29 ✅ 2025-06-30  
+- [x] Uplearn - Chemistry 🔼 🔁 every week ➕ 2025-06-30 📅 2025-07-06  
+- [x] Uplearn - Physics 🔼 🔁 every week ➕ 2025-06-13 📅 2025-06-15 ✅ 2025-06-17  
+- [x] Uplearn - Physics 🔼 🔁 every week ➕ 2025-06-17 📅 2025-06-22 ✅ 2025-06-30  
+- [x] Uplearn - Physics 🔼 🔁 every week ➕ 2025-06-30 📅 2025-06-29 ✅ 2025-06-30  
+- [x] Uplearn - Physics 🔼 🔁 every week ➕ 2025-06-30 📅 2025-07-06  
+- [x] 1500 m ⏰ 2:30PM 🔺 ➕ 2025-06-18 📅 2025-06-18 ✅ 2025-06-20  
