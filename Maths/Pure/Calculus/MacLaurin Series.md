@@ -130,3 +130,48 @@ $$\ln ((1+x+\frac{x^2}{2!}+\frac{x^3}{3!})+(1+2x+2x^2 + \frac{4x^3}{3}))$$
   
 $$ \ln (1-3x)$$  
 $$-3x-\frac{9x^2}{2}-\frac{27x^3}{3}$$  
+  
+  
+---  
+<p align="right">17/09/2025</p align="right">  
+# Maclaurin series 2  
+A function f(x) can be expanded using the Maclaurin series given that:  
+- f(x) can be expanded as a convergent infinite series of terms  
+- each of the terms in f(x) can be differentiated  
+- each of the differentiated terms has a finite value when x=0  
+  
+>[!Formula] Equation  
+>The Maclaurin series, or expansion, for f(x) is  
+>$$f(x) \equiv xf^`(0)+\frac{x^2}{2!}f^{``}(0)+\frac{x^3}{3!}f^{```}+\frac{x^4}{4!}f^{````} ... +\frac{x^r}{r!}f^r+ ...$$  
+  
+![[../../../Extra Files/Pasted image 20250917145829.png|Pasted image 20250917145829]]  
+$f(x) = \ln (1+x)$  
+$f(0) = \ln(1+0)=0$  
+$f^`(x)=\frac{1}{1+x}=(1+x)^{-1}$  
+$f^`(0)=\frac{1}{1+0}=1$  
+$f^{``}(x)=-(1+x)^{-2}$  
+$f^{``}(0)=-(1+0)^{-2}=-1$  
+$f^3(x)=2(1+x)^{-3}$  
+$f^3(0)=2(1+0)^{-3}=2$  
+$f^4(x)=-3(1+x)^{-4}$  
+$f^4(0)=-3(1+0)^{-4}=-6$  
+  
+$f(x)=0+1x-\frac{1}{2}x^2 + \frac{2}{6}x^3-\frac{3\times2}{4!}x^4 ...$  
+$f(x)=x-\frac{x^2}{2}+\frac{x^3}{3}-\frac{x^4}{4}+\frac{x^5}{5}...$  
+  
+![[../../../Extra Files/Pasted image 20250917150901.png|Pasted image 20250917150901]]  
+$\tan (2x) = (2x)+\frac{(2x^3)}{3} + \frac{2(2x)^5}{15}...$  
+$\tan (2x)\ln(1+x) = (2x+\frac{8}{3}x^3+\frac{64}{15}x^5)(x-\frac{x^2}{2}+\frac{x^3}{3}-\frac{x^4}{4})$  
+  
+---  
+<p align="right">19/09/2025</p align="right">  
+# General terms and limits  
+  
+>[!example]  
+>Find this limit:   
+>$$\underset{n \rightarrow \infty}{\lim} \frac{2n+5}{n}$$  
+>  
+>$$\underset{n \rightarrow \infty}{\lim} \frac{2+\frac{5}{n}}{1}$$  
+>$$\underset{n \rightarrow \infty}{\lim} 2+\frac{5}{n}=2$$  
+  
+![[../../../Extra Files/Pasted image 20250919140859.png|800]]  

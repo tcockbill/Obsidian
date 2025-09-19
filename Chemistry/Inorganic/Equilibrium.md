@@ -107,14 +107,14 @@ Many important reactions exist as equilibrium systems:
 >[!chemical-formula] The Haber Process  
 >$$ N_{2(g)} + 3H_{2(g)} \rightleftharpoons 2NH_{3(g)} \qquad \Delta H = -92 \thinspace kJ \thinspace mol^{-1}$$  
   
-|                                              | Temperature ($450 \degree \thinspace C$)  | Pressure ($200 \thinspace atm$)                  | Catalyst (iron)              |  
-| -------------------------------------------- | ----------------------------------------- | ------------------------------------------------ | ---------------------------- |  
-| Yield (based on position of the equilibrium) | Lower wanted - would shift to the right   | Higher pressure - would shift to the right       | No effect                    |  
-| [[../Rate of reaction|Rate of reaction]]                             | Higher wanted - increase [[../Rate of reaction|rate of reaction]] | Higher wanted - more molecules in a given volume | Increases rate               |  
-| Cost                                         | High temp = High cost                     | High pressure = High cost, dangerous             | One time purchase - low cost |  
-| Overall                                      | Comprimise at 450                         | Compromise 200 atm                               | Add catalyst                 |  
+|                                                  | Temperature ($450 \degree \thinspace C$)                                  | Pressure ($200 \thinspace atm$)                  | Catalyst (iron)              |  
+| ------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------- |  
+| Yield (based on position of the equilibrium)     | Lower wanted - would shift to the right                                   | Higher pressure - would shift to the right       | No effect                    |  
+| [[../Rate of reaction\|Rate of reaction]] | Higher wanted - increase [[../Rate of reaction\|rate of reaction]] | Higher wanted - more molecules in a given volume | Increases rate<br>           |  
+| Cost                                             | High temp = High cost                                                     | High pressure = High cost, dangerous             | One time purchase - low cost |  
+| Overall                                          | Comprimise at 450                                                         | Compromise 200 atm                               | Add catalyst                 |  
   
->[!exam-question] Practice 6 marker   
+>[!question] Practice 6 marker   
 >1. The following reaction is used in industry to make sulfur trioxide gas, $SO_3$.   
 >$2SO_2(g) + O_2(g) \overset{iron}{\rightleftharpoons} 2SO_3(g) \qquad ΔH⦵ = −196 kJ mol−1$  
 >This preparation is carried out in the presence of a catalyst.   
@@ -128,7 +128,7 @@ However, you want a high temperature as this increases the [[../Rate of reaction
 You want low pressure, as that favors the reaction with the least amount of moles, which is the forward reaction, however, to increase the [[../Rate of reaction|rate of reaction]], you want high pressure as there is more molecules im a set volume, so this increases collisions, and therefore sucesseful collisions, that increases the [[../Rate of reaction|rate of reaction]]. However, it is dangerous to keep it at a consistent high pressure, slo we comprimise for a slightly lower pressure, while still maintaining a low enough pressure to favor the forward reaction.  
   
   
->[!exam-question] Ammonia production  
+>[!question] Ammonia production  
 >3. Ammonia, NH3, is manufactured by the chemical industry from nitrogen and hydrogen gases.   
 >$N_2(g) + 3H_2(g) \rightleftarrows 2NH_3(g) \qquad ΔH = −92 kJ mol−1$   
 >• An iron catalyst is used which provides several benefits for sustainability.   
@@ -170,13 +170,13 @@ $$Kc=\frac{[D]^d[C]^c}{[A]^a[B]^b}$$
   
 $\text{e.g.,} \quad P_4 (s) + 5O_2(g) \rightleftharpoons P_4O_{10} \text{ gives } K_c = [O_2]^5$  
   
-### Calculating $K_c$  
+>[!note] ### Calculating $K_c$  
 You need to be able to calculate $K_c$ when given the following data:  
-- <u>Concentrations</u> of species at equilibrium  
-- <u>Moles</u> of species at equilibrium  
-	- Involves an extra step to calculate concentration  
-- <u>Moles</u> of species at the start/at equilibrium from experimental result  
-	- Requires determining amounts from experimental results and the balanced equation  
+>- <u>Concentrations</u> of species at equilibrium  
+>- Moles of species at equilibrium  
+ -Involves an extra step to calculate concentration  
+>- <u>Moles</u> of species at the start/at equilibrium from experimental result  
+>- Requires determining amounts from experimental results and the balanced equation  
   
 ---  
   
@@ -191,10 +191,33 @@ $$\text{Partial pressure (p) } = \text{ Mole fraction (x) } \times \text{Total p
 Sum of partial pressures = Total pressure  
 Values may be given in Pa, kPa or atm - any is fine as long as the units are all consistent  
   
-### Kp  
+>[!note] ### Kp  
+>  
 Equilibria involving gases are typically expressed in $K_p$, as apposed to $K_c$, as it is easier to measure pressure of gas vs concentration  
-  
+>  
 Where:  
 $aA+bB \rightleftharpoons cC+dD$  
 $$K_p = \frac{p(C)^c \thinspace p(D)^d}{p(A)^a \thinspace p(B)^b}$$  
 Only include gases in this equation  
+  
+  
+---  
+## Position of equilibrium  
+  
+IN BOOK  
+  
+The value of **K** <u>must remain constant</u>, meaning that conditions will be altered to <u>restore <b>K</b></u> once changes in concentration/pressure are made to the system  
+  
+This is the reason behind Le Chatelier's principle - the position of equilibrium shifts to restore K and keep it constant  
+  
+TASK IN BOOK  
+  
+Catatlysts change neither the position of equilibrium or the value of K  
+  
+  
+| Condtition changed | Does the value of K change | Does the equilibrium shift |  
+| ------------------ | -------------------------- | -------------------------- |  
+| Temperature        | Yes                        | Yes                        |  
+| Pressure           | No                         | Yes                        |  
+| Concentration      | No                         | Yes                        |  
+| Catalyst           | No                         | No                         |  
