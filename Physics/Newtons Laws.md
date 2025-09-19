@@ -12,7 +12,5 @@ The second of Newton's laws states that the force acting on an object is directl
 This equation can also be used to define the force of weight that objects on earth experience; as we know $g \approx 9.81 m \, s^{-1}$   
 # Law 3  
   
-Every reaction has an equal and opposite reaction. See [[./Reaction Force|reaction force]]  
-  
-  
-  
+~~Every action has an equal and opposite reaction.~~  
+Forces occur in equal and opposite pairs.  See [[./Reaction Force|reaction force]]  

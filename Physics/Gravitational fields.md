@@ -3,7 +3,7 @@ tags: []
 date: 2025-05-06
 ---
 ---  
-# Newtons law of gravitation  
+# Newtons law of [[../Gravitation|Gravitation]]  
 $F=\frac{GMm}{r^2}$ - this is the force between 2 masses  
 Gravitational field strength is $g=\frac{GM}{r^2}$   
 These two relate where $mg=F=\frac{GMm}{r^2}$  

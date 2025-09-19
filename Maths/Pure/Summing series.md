@@ -188,4 +188,10 @@ Where:
   
 *   **Convergence:** Always check for convergence *before* attempting to find a sum. A divergent series does not have a finite sum.  
 *   **Assumptions:** Be aware of any assumptions made when applying formulas (e.g., |r| < 1 for the sum to infinity of a geometric series).  
-*   **Manipulations:**  Carefully justify any manipulations of the series to ensure that the sum remains unchanged.  Reordering terms in a divergent series can change its apparent sum, which is mathematically invalid.
+*   **Manipulations:**  Carefully justify any manipulations of the series to ensure that the sum remains unchanged.  Reordering terms in a divergent series can change its apparent sum, which is mathematically invalid.  
+  
+# Using Partial fractions  
+  
+In order to express a function as $f(r+1)-f(r)$, you may need to use partial fractions  
+  
+You can decompose some functions into their partial fractions  
