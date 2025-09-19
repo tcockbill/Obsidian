@@ -9,9 +9,3 @@ title: Homepage
 ```widgets  
 type: clock  
 ```  
-```widgets  
-type: countdown  
-date: 2025-07-10 12:25:00  
-to:  
-```  
-<font size = "5"><center><b>Until the end of Year 12</b></center></font>
